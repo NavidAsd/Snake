@@ -1,0 +1,34 @@
+C:\Users\Apple\Desktop\game\game\bin\Debug\game.exe.config
+C:\Users\Apple\Desktop\game\game\bin\Debug\game.exe
+C:\Users\Apple\Desktop\game\game\bin\Debug\game.pdb
+C:\Users\Apple\Desktop\game\game\obj\Debug\game.csprojResolveAssemblyReference.cache
+C:\Users\Apple\Desktop\game\game\obj\Debug\game.oneproject.resources
+C:\Users\Apple\Desktop\game\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\Apple\Desktop\game\game\obj\Debug\game.csproj.GenerateResource.Cache
+C:\Users\Apple\Desktop\game\game\obj\Debug\game.exe
+C:\Users\Apple\Desktop\game\game\obj\Debug\game.pdb
+C:\Users\Apple\Desktop\game\game\obj\Debug\game.Next_Level.resources
+C:\Users\Apple\Desktop\game\game\obj\Debug\game.textt.resources
+F:\c# project\game\game\bin\Debug\game.exe.config
+F:\c# project\game\game\obj\Debug\game.exe
+F:\c# project\game\game\obj\Debug\game.pdb
+F:\c# project\game\game\bin\Debug\game.exe
+F:\c# project\game\game\bin\Debug\game.pdb
+F:\c# project\game\game\obj\Debug\game.csprojResolveAssemblyReference.cache
+F:\c# project\game\game\obj\Debug\game.oneproject.resources
+F:\c# project\game\game\obj\Debug\game.Next_Level.resources
+F:\c# project\game\game\obj\Debug\game.Properties.Resources.resources
+F:\c# project\game\game\obj\Debug\game.textt.resources
+F:\c# project\game\game\obj\Debug\game.csproj.GenerateResource.Cache
+E:\Drive.F\C# Projects\WinForm\game\game\bin\Debug\game.exe.config
+E:\Drive.F\C# Projects\WinForm\game\game\bin\Debug\game.exe
+E:\Drive.F\C# Projects\WinForm\game\game\bin\Debug\game.pdb
+E:\Drive.F\C# Projects\WinForm\game\game\obj\Debug\game.csprojAssemblyReference.cache
+E:\Drive.F\C# Projects\WinForm\game\game\obj\Debug\game.oneproject.resources
+E:\Drive.F\C# Projects\WinForm\game\game\obj\Debug\game.Next_Level.resources
+E:\Drive.F\C# Projects\WinForm\game\game\obj\Debug\game.Properties.Resources.resources
+E:\Drive.F\C# Projects\WinForm\game\game\obj\Debug\game.textt.resources
+E:\Drive.F\C# Projects\WinForm\game\game\obj\Debug\game.csproj.GenerateResource.cache
+E:\Drive.F\C# Projects\WinForm\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+E:\Drive.F\C# Projects\WinForm\game\game\obj\Debug\game.exe
+E:\Drive.F\C# Projects\WinForm\game\game\obj\Debug\game.pdb
